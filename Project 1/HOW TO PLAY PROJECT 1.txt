@@ -1,0 +1,7 @@
+﻿Goal: Get the player to the trophy. Spikes can send you back to the spawn position and restart the game, but you do not lose your previous score.
+
+
+Use the Arrow keys to move up, down, left, and right.
+
+
+Have fun!
