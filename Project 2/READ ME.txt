@@ -1,0 +1,24 @@
+Solitaire: Without an Ace!
+
+How to play:
+-Move all cards to the 4 slots on the top row in ascending order, beginning with the 2 and ending with the King (K (high), Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2 (low))
+-Must be opposite colors when in the BOTTOM ROW ONLY (Black 5 can not go on top of a Black 6); Red, Black, Red, Black pattern or vice versa
+-Left click on a front facing card to highlight it yellow
+-Left click on a front facing card to place your highlighted card on top of it
+-Left click on backwards facing cards to reveal them
+-Left click on the deck to reveal three cards from it
+-Left click on the top row (of 4) to place a highlighted card down
+-Click the Rest button if you need a fresh start!
+-Have Fun!
+
+
+
+Group Work:
+Myles Timmons: Card and UI Designs
+Matthew Wybranski: Code and UI Design
+
+
+
+Optional Features Chosen:
+A sound or emphasizing UI element occurs when specific cards or outcomes occur during play. (The Highlighting Front-facing Cards)
+The UI includes an area for cards in play as well as cards in the player hand. (The Top and Bottoms Rows)
